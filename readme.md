@@ -1,5 +1,5 @@
 Projection Two-Photon Lithography Simulation Toolbox for MATLAB (OS-FDM 2D)
-v1.0
+v1.0 (Archived, not actively supported)
 Rushil Pingali and Sourabh K. Saha
 Georgia Institute of Technology
 
